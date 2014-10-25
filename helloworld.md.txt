@@ -5,3 +5,4 @@ this is line2
 this is line2
 this is line3
 >>>>>>> master
+This is my editing line
